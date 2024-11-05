@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inebioba.github.io/BQR/sitemap_index.txt
+Sitemap: https://inebioba.github.io/LyV/sitemap_index.txt
+Sitemap: https://inebioba.github.io/cxG/sitemap_index.txt
+Sitemap: https://inebioba.github.io/gZw/sitemap_index.txt
